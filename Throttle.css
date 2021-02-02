@@ -9,7 +9,6 @@
 .custom.controller {
     width: 1900px;
     height: 360px;
-    font-family: 'Pulsar - Original';
 }
 
 .custom .bumper.pressed:after, .custom .button.pressed:after{
